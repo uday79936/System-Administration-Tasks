@@ -91,6 +91,10 @@ sudo systemctl restart ssh.service
 ```
 sudo -u uday ssh localhost
 ```
+## Change the shell:
+```
+sudo chsh -s /bin/bash uday
+```
 # Enter password when prompted
 
 ## Step 11: Deleting the User:
