@@ -116,6 +116,29 @@ Swap:          1.0G          0B        1.0G
 
 ## Images:
 
+## 1. Create a swap file:
+
+<img width="981" height="278" alt="Image" src="https://github.com/user-attachments/assets/642d33b8-244c-4ff9-9c03-feae4535ac25" />
+
+## 2. Change Mode permissions:
+
+<img width="770" height="207" alt="Image" src="https://github.com/user-attachments/assets/149310a2-9b23-4fad-9abe-ec00ce2c733a" />
+
+## 3. Format file as swap:
+
+<img width="936" height="117" alt="Image" src="https://github.com/user-attachments/assets/3cec719e-0292-46e1-ad92-d4b6294d4ff2" />
+
+## 4. Swapon:
+
+<img width="677" height="193" alt="Image" src="https://github.com/user-attachments/assets/c10311c8-b5b9-4db0-85be-bf6cd7504724" />
+
+## 5. Free -h swap:
+
+<img width="1081" height="213" alt="Image" src="https://github.com/user-attachments/assets/1ce92241-0093-4800-a025-3e0e1109b902" />
+
+## 6. DF -h :
+
+<img width="787" height="281" alt="Image" src="https://github.com/user-attachments/assets/0297469d-fc99-4ecb-a15d-d39f902fd25d" />
 
 
 ## ⚠️ Important Notes:
